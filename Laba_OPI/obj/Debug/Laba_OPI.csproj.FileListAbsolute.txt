@@ -1,0 +1,11 @@
+C:\Users\Михаил\source\repos\Laba_OPI\Laba_OPI\bin\Debug\Laba_OPI.exe.config
+C:\Users\Михаил\source\repos\Laba_OPI\Laba_OPI\bin\Debug\Laba_OPI.exe
+C:\Users\Михаил\source\repos\Laba_OPI\Laba_OPI\bin\Debug\Laba_OPI.pdb
+C:\Users\Михаил\source\repos\Laba_OPI\Laba_OPI\obj\Debug\Laba_OPI.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\Laba_OPI\Laba_OPI\obj\Debug\Laba_OPI.Form1.resources
+C:\Users\Михаил\source\repos\Laba_OPI\Laba_OPI\obj\Debug\Laba_OPI.Properties.Resources.resources
+C:\Users\Михаил\source\repos\Laba_OPI\Laba_OPI\obj\Debug\Laba_OPI.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\Laba_OPI\Laba_OPI\obj\Debug\Laba_OPI.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Laba_OPI\Laba_OPI\obj\Debug\Laba_OPI.exe
+C:\Users\Михаил\source\repos\Laba_OPI\Laba_OPI\obj\Debug\Laba_OPI.pdb
+C:\Users\Михаил\source\repos\Laba_OPI\Laba_OPI\bin\Debug\Laba.accdb
